@@ -1,2 +1,2 @@
-# Leader-board
-A simple leader board
+# Gitflow
+Try gitflow for the first time
